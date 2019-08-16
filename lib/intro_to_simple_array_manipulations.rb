@@ -1,5 +1,5 @@
 def using_push (array, string)
-  array = ["dogs", "cats", "birds"] 
+  array = ["red", "blue", "green"] 
 updated_array = array.push ("violet")
 p updated_array
 end
