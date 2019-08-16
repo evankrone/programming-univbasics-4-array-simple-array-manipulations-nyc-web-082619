@@ -24,7 +24,6 @@ end
 
 def shift_with_args
 brands_removed = ice_cream_brands.shift(2)
-
 end
   
   
