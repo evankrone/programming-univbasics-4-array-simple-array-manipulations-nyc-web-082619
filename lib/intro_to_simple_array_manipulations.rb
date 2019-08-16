@@ -27,6 +27,8 @@ brands_removed = ice_cream_brands.shift(2)
 end
 
 def using_concat
+my_favorite_things.concat ( more_faves)
+end
   
   
   
